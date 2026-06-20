@@ -1,0 +1,38 @@
+body{
+    color: lightblue;
+    text-align: center;
+   font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  margin: 0px;
+  
+}
+#mainbd { background-image: url("200.webp");
+    background-size: cover;
+  padding :10px 0px 40px 0px;
+height: 400px;
+
+}
+
+.btn{ 
+    background-color: white;
+    border: none;
+   font-weight: bold;
+      font-family: "Orbitron", sans-serif;
+      color: lightskyblue;
+      padding:7px;
+}
+.cpn { border-bottom: 4px solid white;
+   
+
+}
+
+#logo { width: 100px;
+    height: auto;
+}
+
+#title1{ text-shadow: 0px 0px 4px black
+
+}
+ 
